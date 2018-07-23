@@ -5,4 +5,4 @@ une demo git
 
 modification depuis Github ;
 
-une autre modification en local :
+une autre modification en local : et c'est cool !
